@@ -10,6 +10,7 @@ A curated list of AI-powered tools for cyber security. Contribute to this list v
 | KnowBe4 | KnowBe4 Security Awareness Platform | [https://www.knowbe4.com/](https://www.knowbe4.com/) |
 | Splunk | Splunk - Unified Security and Observability Platform | [https://www.splunk.com/](https://www.splunk.com/) |
 | Bitdefender | Bitdefender Security Suite | [https://www.bitdefender.com/](https://www.bitdefender.com/) |
+| Darkmoon | Open-source autonomous AI pentest platform | [https://github.com/ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) |
 | Nessus | Top Cybersecurity Tool | [https://www.tenable.com/products/nessus](https://www.tenable.com/products/nessus) |
 
 | Skill Safe | Security checker for agent skills and MCP servers | [https://skillsafe.online/](https://skillsafe.online/) |
